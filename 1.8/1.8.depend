@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601361935 source:e:\luyencode\1.8\main.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+
